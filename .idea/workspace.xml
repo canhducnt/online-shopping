@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f607b914-39dc-4323-a1c3-f3e185acda42" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/online-shopping.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/onlineshopping/onlineshopping.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/onlineshopping/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppingbackend/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppingbackend/shoppingbackend.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/onlineshopping/target/" />
@@ -41,11 +33,22 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="canhducnt" />
         <option value="user.canhduc" />
         <option value="canhducnt &lt;52831368+canhducnt@users.noreply.github.com&gt;" />
       </list>
@@ -57,6 +60,7 @@
       <list>
         <option value="$PROJECT_DIR$/onlineshopping/pom.xml" />
         <option value="$PROJECT_DIR$/shoppingbackend/pom.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -85,11 +89,6 @@
             <path>
               <item name="online-shopping" type="b2602c69:ProjectViewProjectNode" />
               <item name="online-shopping" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="online-shopping" type="b2602c69:ProjectViewProjectNode" />
-              <item name="online-shopping" type="462c0819:PsiDirectoryNode" />
-              <item name="shoppingbackend" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -129,15 +128,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563072563738</updated>
-      <workItem from="1563072564995" duration="879000" />
+      <workItem from="1563072564995" duration="1237000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1563073635976</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563073635976</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="879000" />
+    <option name="totallyTimeSpent" value="1237000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="275" y="23" width="1025" height="745" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -185,15 +193,15 @@
     <entry file="file://$PROJECT_DIR$/onlineshopping/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/shoppingbackend/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
